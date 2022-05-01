@@ -26,6 +26,6 @@
     <a href="https://www.linkedin.com/in/renan-bastos-7950a5a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:renanLBastos@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 
-  https://github.com/eagrundy/RenanLBastos/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/eagrundy/RenanLBastos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
